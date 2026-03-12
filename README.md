@@ -5,6 +5,12 @@ A full-stack authentication application built with the MERN stack (MongoDB, Expr
 This project implements a complete and real-world authentication system from scratch — user registration, login, token-based session management, and secure account deletion. It is split into two separate apps: a React frontend and a Node.js backend, both connected over REST API.
 
 ---
+## Live Demo
+
+Frontend: https://login-app-frontend-kappa.vercel.app  
+Backend API: https://login-app-backend-uqbw.onrender.com
+
+
 
 ## Table of Contents
 
