@@ -8,7 +8,7 @@ This project implements a complete and real-world authentication system from scr
 ## Live Demo
 
 Frontend: https://login-app-frontend-kappa.vercel.app  
-Backend API: https://login-app-backend-uqbw.onrender.com
+Backend API: https://login-app-backend-uqbw.onrender.com/api/health
 
 
 
