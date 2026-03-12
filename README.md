@@ -349,10 +349,9 @@ MONGO_URI=your_mongodb_connection_string
 ### Frontend — `frontend/.env`
 
 ```env
-VITE_API_BASE_URL=http://localhost:5000
+VITE_API_BASE_URL=https://login-app-backend-uqbw.onrender.com
 ```
 
-> Change this to your deployed backend URL before building for production.
 
 ---
 
